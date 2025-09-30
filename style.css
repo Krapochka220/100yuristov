@@ -1,0 +1,74 @@
+.body{
+    width: 1200px;
+    margin: auto;
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    gap: 30px;
+    
+}
+.search {
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 14px 20px;
+gap: 249px;
+
+width: 427px;
+height: 52px;
+background: rgba(47, 43, 67, 0.04);
+border-radius: 10px;
+flex: none;
+
+
+}
+.logo{
+
+width: 211px;
+height: 38px;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+.ask-btn {
+    background-color: #33836e;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+
+}
+.contact {
+}
+.phone_number {
+    font-weight: bold;
+    font-size: 18px;
+    display: flex;
+}
+.contact_info {
+}
+.menu {
+
+}
+.menu_border {
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 15px;
+
+margin: 0 auto;
+width: 361px;
+height: 44px;
+
+
+
+}
