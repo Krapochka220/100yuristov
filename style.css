@@ -566,3 +566,19 @@ order: 1;
 flex-grow: 0;
 margin: 0px -13px;
 }
+
+.How_can_help {
+position: absolute;
+width: 1140px;
+height: 295px;
+left: 600px;
+top: 1650px;
+}
+.How_can_help_text {
+    font-family: 'Open Sans';
+font-weight: 700;
+font-style: Bold;
+font-size: 32px;;
+
+
+}
